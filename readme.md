@@ -3,4 +3,4 @@
 
 Esta serie de libros cuenta la historia de un hacker de los que hay pocos.
 
-**Roberto Delgado**, Git lover
+**Roberto Delgado**, Git & Larry Plotter lover.
